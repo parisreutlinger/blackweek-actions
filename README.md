@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-## HELLO WORLD
+## HELLO WORLD 2
 
 Repo for the `GitHub Actions Fundamentals` training.
 
